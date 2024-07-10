@@ -40,6 +40,8 @@
     },
     "android": {
       "versionCode": "526",
+      "compileSdkVersion": 34,
+      "targetSdkVersion": 34,
       "package": "org.simple.bppassport",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
