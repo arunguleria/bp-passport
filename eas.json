@@ -1,12 +1,11 @@
 {
   "cli": {
-    "version": ">= 3.7.2",
     "promptToConfigurePushNotifications": false
   },
   "build": {
     "fast": {
       "ios": {
-        "resourceClass": "m-medium"
+        "resourceClass": "m1-medium"
       }
     },
     "development": {

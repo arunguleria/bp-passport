@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "build-dev": "npx eas-cli build --profile development-simulator --platform all",
     "submit": "npx eas-cli build --profile $profile --platform all --auto-submit",
-    "build": "npx eas-cli build --profile $profile --platform all"
+    "build": "npx eas-cli build --profile $profile --platform android"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "1.17.11",
